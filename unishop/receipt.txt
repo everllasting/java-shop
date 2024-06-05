@@ -1,0 +1,6 @@
+Receipt number: 96
+Shop: Lidl
+Cashier: Alex
+
+Product: Whey 2x Price: $1.0
+Product: Bread 2x Price: $3.2
